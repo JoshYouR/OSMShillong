@@ -1,0 +1,14 @@
+<layouts>
+
+    <layout name='root'>
+        <row>
+            <button type='voicerec'/>
+            <button type='picture'/>
+            <button type='textnote'/>
+            <button type='tag' label='Living Street'/>
+        </row>
+        <row>
+            <button type='tag' label='test'/>
+        </row>
+    </layout>
+</layouts>
