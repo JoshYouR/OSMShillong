@@ -18,7 +18,7 @@
             <button type="tag" label="@string/tag.track_footway" icon="button_track_footway" />
         </row>
         <row>
-            <button type="tag" label="Road does not exist" icon="button_restriction_no_exit" />
+            <button type="tag" label="Road does not exist/connect" icon="button_restriction_no_exit" />
         </row>
     </layout>
 </layouts>
