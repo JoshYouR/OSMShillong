@@ -9,6 +9,7 @@
         <row>
             <button type='tag' label='Living Street'/>
             <button type='tag' label='test'/>
+            <button type='tag' label='test'/>
         </row>
     </layout>
 </layouts>
