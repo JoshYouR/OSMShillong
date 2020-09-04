@@ -8,19 +8,17 @@
             <button type="textnote" />
         </row>
         <row>
-            <button type="tag" label="Living Street" />
-            <button type="tag" label="test" />
-            <button type="tag" label="test" />
+            <button type="tag" label="@string/tag.track_living_street" icon="button_track_living_street" />
+            <button type="tag" label="@string/tag.restriction_one_way" icon="button_restriction_one_way" />
+            <button type="tag" label="@string/tag.way_residential" icon="button_way_residential" />
         </row>
         <row>
-            <button type="tag" label="Living Street" />
-            <button type="tag" label="test" />
-            <button type="tag" label="test" />
+            <button type="tag" label="Steps Top" icon="button_track_steps" />
+            <button type="tag" label="Steps Bottom" icon="button_track_steps" />
+            <button type="tag" label="@string/tag.track_footway" icon="button_track_footway" />
         </row>
         <row>
-            <button type="tag" label="Living Street" />
-            <button type="tag" label="test" />
-            <button type="tag" label="test" />
+            <button type="tag" label="Road does not exist" icon="button_restriction_no_exit" />
         </row>
     </layout>
 </layouts>
