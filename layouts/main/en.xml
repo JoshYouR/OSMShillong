@@ -7,17 +7,17 @@
             <button type="textnote" />
         </row>
         <row>
-            <button type="tag" label="@string/tag.track_living_street" icon="button_track_living_street.png" />
-            <button type="tag" label="@string/tag.restriction_one_way" icon="button_restriction_one_way.png" />
-            <button type="tag" label="@string/tag.way_residential" icon="button_way_residential.png" />
+            <button type="tag" label="@string/tag.track_living_street" icon="main_icons/button_track_living_street.png" />
+            <button type="tag" label="@string/tag.restriction_one_way" icon="main_icons/button_restriction_one_way.png" />
+            <button type="tag" label="@string/tag.way_residential" icon="main_icons/button_way_residential.png" />
         </row>
         <row>
-            <button type="tag" label="Steps Top" icon="button_track_steps.png" />
-            <button type="tag" label="Steps Bottom" icon="button_track_steps.png" />
-            <button type="tag" label="@string/tag.track_footway" icon="button_track_footway.png" />
+            <button type="tag" label="Steps Top" icon="main_icons/button_track_steps.png" />
+            <button type="tag" label="Steps Bottom" icon="main_icons/button_track_steps.png" />
+            <button type="tag" label="@string/tag.track_footway" icon="main_icons/button_track_footway.png" />
         </row>
         <row>
-            <button type="tag" label="Road does not exist/connect" icon="button_restriction_no_exit.png" />
+            <button type="tag" label="Road does not exist/connect" icon="main_icons/button_restriction_no_exit.png" />
         </row>
     </layout>
     z
