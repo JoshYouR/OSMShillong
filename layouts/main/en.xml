@@ -18,7 +18,7 @@
         </row>
         <row>
             <button type="tag" label="@string/tag.restriction_one_way" icon="main_icons/button_restriction_one_way.png" />
-            <button type="tag" label="Road does not exist or does not connect" icon="main_icons/button_restriction_no_exit.png" />
+            <button type="tag" label="Road does not exist or connect" icon="main_icons/button_restriction_no_exit.png" />
             <button type="page" label="Buildings" targetlayout="buildings" />
         </row>
     </layout>
