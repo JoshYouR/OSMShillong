@@ -13,7 +13,7 @@
         </row>
         <row>
             <button type="tag" label="Steps Top" icon="main_icons/button_track_steps.png" />
-            <button type="tag" label="Steps Bottom" icon="main_icons/button_track_steps.png" />
+            <button type="tag" label="Steps Bottom" icon="main_icons/steps_bottom.png" />
             <button type="tag" label="@string/tag.track_footway" icon="main_icons/button_track_footway.png" />
         </row>
         <row>
