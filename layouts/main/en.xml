@@ -8,8 +8,8 @@
         </row>
         <row>
             <button type="tag" label="@string/tag.track_living_street" icon="main_icons/button_track_living_street.png" />
-            <button type="tag" label="@string/tag.restriction_one_way" icon="main_icons/button_restriction_one_way.png" />
             <button type="tag" label="@string/tag.way_residential" icon="main_icons/button_way_residential.png" />
+            <button type="tag" label="@string/tag.track_track" />
         </row>
         <row>
             <button type="tag" label="Steps Top" icon="main_icons/button_track_steps.png" />
@@ -17,7 +17,22 @@
             <button type="tag" label="@string/tag.track_footway" icon="main_icons/button_track_footway.png" />
         </row>
         <row>
+            <button type="tag" label="@string/tag.restriction_one_way" icon="main_icons/button_restriction_one_way.png" />
             <button type="tag" label="Road does not exist/connect" icon="main_icons/button_restriction_no_exit.png" />
+            <button type="page" label="Buildings" targetlayout="buildings" />
+        </row>
+    </layout>
+
+    <layout name="buildings">
+        <row>
+            <button type="voicerec" />
+            <button type="picture" />
+            <button type="textnote" />
+        </row>
+        <row>
+            <button type="tag" label="@string/tag.amenity_place_of_worship" />
+            <button type="tag" label="Government Building" />
+            <button type="tag" label="Police Station" />
         </row>
     </layout>
     
