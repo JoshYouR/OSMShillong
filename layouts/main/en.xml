@@ -7,18 +7,18 @@
             <button type="textnote" />
         </row>
         <row>
-            <button type="tag" label="@string/tag.track_living_street" icon="main_icons/button_track_living_street.png" />
-            <button type="tag" label="@string/tag.way_residential" icon="main_icons/button_way_residential.png" />
+            <button type="tag" label="@string/tag.track_living_street" icon="main_icons/living_street_icon.png" />
+            <button type="tag" label="@string/tag.way_residential" icon="main_icons/residential_icon.png" />
             <button type="tag" label="@string/tag.track_track" />
         </row>
         <row>
-            <button type="tag" label="Steps Top" icon="main_icons/button_track_steps.png" />
+            <button type="tag" label="Steps Top" icon="main_icons/steps_top.png" />
             <button type="tag" label="Steps Bottom" icon="main_icons/steps_bottom.png" />
-            <button type="tag" label="@string/tag.track_footway" icon="main_icons/button_track_footway.png" />
+            <button type="tag" label="@string/tag.track_footway" icon="main_icons/footway_icon.png" />
         </row>
         <row>
-            <button type="tag" label="@string/tag.restriction_one_way" icon="main_icons/button_restriction_one_way.png" />
-            <button type="tag" label="No Road Here" icon="main_icons/button_restriction_no_exit.png" />
+            <button type="tag" label="@string/tag.restriction_one_way" icon="main_icons/one_way_icon.png" />
+            <button type="tag" label="No Road Here" icon="main_icons/no_road_icon.png" />
             <button type="page" label="Buildings" targetlayout="buildings" />
         </row>
     </layout>
