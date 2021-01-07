@@ -7,19 +7,19 @@
             <button type="textnote" />
         </row>
         <row>
-            <button type="tag" label="@string/tag.track_living_street" icon="main_icons/living_street_icon.png" />
-            <button type="tag" label="@string/tag.way_residential" icon="main_icons/residential_icon.png" />
-            <button type="tag" label="@string/tag.track_track" />
+            <button type="tag" label="@string/tag.track_living_street" icon="main_icons/living_street_ico.png" />
+            <button type="tag" label="@string/tag.way_residential" icon="main_icons/residential_ico.png" />
+            <button type="tag" label="@string/tag.track_track" icon="main_icons/track_ico.png" />
         </row>
         <row>
-            <button type="tag" label="Steps Top" icon="main_icons/steps_top.png" />
-            <button type="tag" label="Steps Bottom" icon="main_icons/steps_bottom.png" />
-            <button type="tag" label="@string/tag.track_footway" icon="main_icons/footway_icon.png" />
+            <button type="tag" label="Steps Top" icon="main_icons/steps_top_ico.png" />
+            <button type="tag" label="Steps Bottom" icon="main_icons/steps_bottom_ico.png" />
+            <button type="tag" label="@string/tag.track_footway" icon="main_icons/footway_ico.png" />
         </row>
         <row>
-            <button type="tag" label="@string/tag.restriction_one_way" icon="main_icons/one_way_icon.png" />
-            <button type="tag" label="No Road Here" icon="main_icons/no_road_icon.png" />
-            <button type="page" label="Buildings" targetlayout="buildings" />
+            <button type="tag" label="@string/tag.restriction_one_way" icon="main_icons/one_way_ico.png" />
+            <button type="tag" label="No Road Here" icon="main_icons/no_road_ico.png" />
+            <button type="page" label="Buildings" icon="main_icons/buildings_ico.png" targetlayout="buildings" />
         </row>
     </layout>
 
@@ -30,9 +30,19 @@
             <button type="textnote" />
         </row>
         <row>
-            <button type="tag" label="@string/tag.amenity_place_of_worship" />
-            <button type="tag" label="Government Building" />
-            <button type="tag" label="Police Station" />
+            <button type="tag" label="Church" icon="main_icons/church_ico.png" />
+            <button type="tag" label="Hindu Temple" icon="main_icons/hindu_temple_ico.png" />
+            <button type="tag" label="Buddhist Temple" icon="main_icons/buddhist_temple_ico.png" />
+        </row>
+        <row>
+            <button type="tag" label="Mosque" icon="main_icons/mosque_ico.png" />
+            <button type="tag" label="Jewish Synagogue" icon="main_icons/synagogue_ico.png" />
+            <button type="tag" label="Police Station" icon="main_icons/police_station_ico.png" />
+        </row>
+        <row>
+            <button type="tag" label="Military Building" icon="main_icons/military_building_ico.png" />
+            <button type="tag" label="Government Building" icon="main_icons/gov_building_ico.png" />
+            <button type="tag" label="Political Organization" icon="main_icons/political_org_ico.png" />
         </row>
     </layout>
     
